@@ -9,15 +9,15 @@ Laten we onze eerste HTML-pagina maken waarin we "Hallo Wereld" weergeven. Volg 
 * Schrijf de basisstructuur van een HTML-pagina;
 * Voeg in de body-sectie de tekst "Hallo Wereld" toe;
 * Hier is een voorbeeld:
-```
 
+  
+```
 !DOCTYPE html
 ... 
 <body>
 Hallo Wereld!
 </body>
 ... 
-
 ```
 
 {: .callout.callout-info}
