@@ -6,12 +6,16 @@ def create_suites(content: str) -> list[TestSuite]:
     # Basisstructuur van de HTML-pagina
     el_doctype = html.has_doctype()
     el_html = html.element("html")
+    el_head = el_html.get_child("head")
     el_body = el_html.get_child("body")
 
     # Controles toevoegen
     html.make_item("De webpagina heeft een doctype", el_doctype)
 
     html.make_item("De webpagina heeft een <html> tag", el_html.exists())
+
+    html.make_item("Binnen de <html> tag bevindt zich de <head> tag.",
+                   el_head.exists())
 
     html.make_item("Binnen de <html> tag bevindt zich de <body> tag.",
                    el_body.exists())
