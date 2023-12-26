@@ -26,7 +26,7 @@ Een basis-HTML-pagina bestaat uit volgende **elementen**:
 
 {: .callout.callout-info}
 >## Tip
->* Gebruik de correcte tekens om een tag te open en sluiten; 
-> ***Openen**: < voorbeeld >; 
-> ***Gesloten**: </ voorbeeld >. 
+>Gebruik de correcte tekens om een tag te open en sluiten;
+>**Openen**: < voorbeeld >;
+>**Gesloten**: </ voorbeeld >. 
 
