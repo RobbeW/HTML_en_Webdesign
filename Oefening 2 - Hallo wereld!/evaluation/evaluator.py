@@ -16,9 +16,8 @@ def create_suites(content: str) -> list[TestSuite]:
     html.make_item("Binnen de <html> tag bevindt zich de <body> tag.",
                    el_body.exists())
 
-    # Controle voor "Hallo Wereld" in de body
-    body_content = el_body.get_content() if el_body else ""
-    contains_hello_world = "Hallo Wereld" in body_content
+    # Aangepaste controle voor "Hallo Wereld" in de body
+    contains_hello_world = el_body and "Hallo Wereld" in el_body.to_string()
     html.make_item("De <body> tag bevat de tekst 'Hallo Wereld'", contains_hello_world)
 
     return [html]
