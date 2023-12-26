@@ -23,7 +23,7 @@ Hallo Wereld!
 {: .callout.callout-info}
 >## Tip
 >* Gebruik de correcte tekens om een tag te open en sluiten; 
-> ***Openen**: < voorbeeld >; 
-> ***Gesloten**: </ voorbeeld >. 
+>* **Openen**: < voorbeeld >; 
+>* **Gesloten**: </ voorbeeld >. 
 >* Vervolledig bovenstaande structuur!
 
