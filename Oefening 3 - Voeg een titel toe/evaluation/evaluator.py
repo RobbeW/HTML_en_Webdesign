@@ -16,7 +16,7 @@ def create_suites(content: str) -> list[TestSuite]:
                    el_head.exists())
 
     html.make_item("Binnen de <head> tag bevindt zich de <title> tag.",
-                    #el_title.exists())
+                    el_title.exists())
 
 
     html.make_item("Binnen de <html> tag bevindt zich de <body> tag.",
