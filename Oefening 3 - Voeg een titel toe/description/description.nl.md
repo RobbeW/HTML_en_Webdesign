@@ -7,7 +7,7 @@ Elke webpagina heeft niet alleen goede inhoud nodig, maar ook een duidelijke tit
 * De `title` wordt vaak verborgen voor de gebruiker en wordt door computersystemen gebruikt.
 * Daarom plaatsen we de `title` in de `head` van onze webpagina.
 
-<img src="https://media.licdn.com/dms/image/C4D12AQGz5EXRyh5y6Q/article-cover_image-shrink_720_1280/0/1649856091234?e=2147483647&v=beta&t=INeZ_aBnHLEQqBBcnF99PiyqFKKs31GRzoHxFXCdhHI">
+<img src="https://media.licdn.com/dms/image/C4D12AQGz5EXRyh5y6Q/article-cover_image-shrink_720_1280/0/1649856091234?e=2147483647&v=beta&t=INeZ_aBnHLEQqBBcnF99PiyqFKKs31GRzoHxFXCdhHI" width="50%">
 
 
 ## Gegeven
