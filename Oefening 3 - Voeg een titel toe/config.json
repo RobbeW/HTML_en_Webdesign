@@ -1,13 +1,13 @@
 {
   "description": {
     "names": {
-      "nl": "Oefening 1 - Basisstructuur HTML",
-      "en": "Exercise 1 - Basic Structure HTML"
+      "nl": "Een Goede Titel",
+      "en": "A Good Title"
     }
   },
   "type": "exercise",
   "programming_language": "html",
-  "labels": ['html', 'Robbe Wulgaert', 'ai in de klas'
+  "labels": ["html", "Robbe Wulgaert", "ai in de klas"
 
   ],
   "evaluation": {
