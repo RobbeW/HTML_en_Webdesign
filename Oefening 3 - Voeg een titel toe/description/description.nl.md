@@ -25,7 +25,7 @@ Nu je dit weet over de `title`, ziet onze basisstructuur er als volgt uit:
 * Schrijf een HTML-pagina voor jouw favoriete gerecht.
 * Gebruik de `elementen` uit de basisstructuur.
 * Geef de pagina de `title`: Mijn Favoriete Gerecht. Bijvoorbeeld, in de head sectie, zet <title>Mijn Favoriete Gerecht</title>.
-* Pas de correcte `openingstags` (<tag>) en `sluitingstags`(</tag>) toe.
+* Pas de correcte `openingstags` (< tag >) en `sluitingstags`(< /tag >) toe.
 * In de body, voeg de tekst "Vegetarisch Kapsalon" toe.
 
 {: .callout.callout-info}
