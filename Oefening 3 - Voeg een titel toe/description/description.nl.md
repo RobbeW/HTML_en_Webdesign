@@ -31,6 +31,6 @@ Nu je dit weet over de `title`, ziet onze basisstructuur er als volgt uit:
 {: .callout.callout-info}
 >## Tip
 >* Gebruik de correcte tekens om een tag te open en sluiten; 
-> ***Openen**: < voorbeeld >; 
-> ***Gesloten**: </ voorbeeld >. 
+>* **Openen**: < voorbeeld >; 
+>* **Gesloten**: </ voorbeeld >. 
 
