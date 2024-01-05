@@ -6,7 +6,7 @@ def create_suites(content: str) -> list[TestSuite]:
 
     el_html = html.element("html")
     el_head = el_html.get_child("head")
-    #el_title = el_head.get_child("title")
+    el_title = el_head.get_child("title")
     el_body = el_html.get_child("body")
 
     html.make_item("De webpagina heeft een doctype", html.has_doctype())
