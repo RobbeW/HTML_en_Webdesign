@@ -16,7 +16,7 @@ Nu je dit weet over de `title`, ziet onze basisstructuur er als volgt uit:
 * `!DOCTYPE html`
 * `html-tag`
 * `head`
-*   `title`
+  * `title`
 * `body`
 * Afsluitende `html-tag`
 
