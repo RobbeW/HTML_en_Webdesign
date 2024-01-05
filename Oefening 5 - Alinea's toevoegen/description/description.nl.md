@@ -24,7 +24,7 @@ We breiden onze HTML-structuur verder uit door alinea's toe te voegen aan de `bo
 * Maak een HTML-pagina over het gerecht "Kapsalon".
 * Gebruik de elementen uit de basisstructuur.
 * Geef de pagina de `title`: "Het Verhaal van Kapsalon".
-* In de `body`, voeg een `h1` kop toe met "Kapsalon", en een `h2` kop met "De Geschiedenis".
+* In de `body`, voeg een `h1` kop toe met "Vegetarisch Kapsalon", en een `h2` kop met "De Geschiedenis".
 * Voeg een alinea toe (`p` tag) waarin je iets vertelt over de geschiedenis van het gerecht Kapsalon.
 
 Bijvoorbeeld:
