@@ -8,6 +8,8 @@ Net als de hoofdstuktitels in een boek of de koppen in een krant, gebruikt een w
 * Koppen (`h1`, `h2`, `h3`, ...) zijn zichtbaar op de webpagina en functioneren zoals de koppen in een krant of de titels van hoofdstukken in een boek. Ze helpen de inhoud te structureren.
 * `h1` is de hoofdkop en is meestal het grootst, vergelijkbaar met een hoofdstuktitel in een boek of de hoofdkop van een krantenartikel. `h2`, `h3`, enzovoort, zijn subkoppen, vergelijkbaar met subtitels, en worden gebruikt voor subsecties. De grootte en het belang nemen af naarmate het nummer toeneemt.
 
+<img src="https://semji.com/wp-content/uploads/2021/11/Capture-decran-2021-11-08-173834.png" width="50%">
+
 ## Gegeven
 Met deze kennis van koppen kunnen we een gestructureerde webpagina maken. Onze basisstructuur breiden we nu uit met koppen in de `body`:
 
