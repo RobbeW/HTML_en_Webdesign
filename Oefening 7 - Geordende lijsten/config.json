@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Geordende Lijsten in HTML: Stap-voor-stap Recepten",
+      "en": "Ordered Lists - What is the recipe?"
+    }
+  },
+  "type": "exercise",
+  "programming_language": "html",
+  "labels": ["html", "Robbe Wulgaert", "ai in de klas", "python in de klas"
+
+  ],
+  "evaluation": {
+    "handler": "html"
+  },
+  "internals": {
+    "token": "SB8RcpjpJ6W3P-2JqNCzyaRvDTiFBSmEDqhvN_MPa2Iyjdt4PMRxYI4F9bgKaU9D",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
