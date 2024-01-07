@@ -40,7 +40,7 @@ Bijvoorbeeld:
 ...
 ```
 
-Het volledige **geordende lijst** ziet er als volgt uit: 
+De volledige **geordende lijst** ziet er als volgt uit: 
 
 ```
 1. Snijd de aardappelen in frieten en bak ze.
