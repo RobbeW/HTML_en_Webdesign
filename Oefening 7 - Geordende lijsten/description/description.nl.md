@@ -48,7 +48,8 @@ De volledige **geordende lijst** ziet er als volgt uit:
 3. Leg de gebakken frieten in een schaal.
 4. Voeg de gebakken veggie shoarma toe bovenop de frieten.
 5. Bedek het geheel met kaas en laat het smelten in de oven.
-6. Voeg als laatste de salade toe en serveer.
+6. Zet de schaal in de oven tot de kaas gesmolten is.
+7. Voeg als laatste de salade toe en serveer.
 
 ```
 
