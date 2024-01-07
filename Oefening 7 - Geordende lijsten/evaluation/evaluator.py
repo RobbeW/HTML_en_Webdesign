@@ -28,6 +28,6 @@ def create_suites(content: str) -> list[TestSuite]:
     html.make_item("Binnen de <body> tag bevindt zich de <ol> tag (geordende lijst).", el_ol.exists())
 
     # Nieuwe controle voor het tellen van li tags binnen ol tag
-    html.make_item("De <ol> tag bevat het juiste aantal <li> tags.", len(el_li) == 6)
+    html.make_item("De <ol> tag bevat het juiste aantal <li> tags.", len(el_li) == 7)
 
     return [html]
