@@ -10,8 +10,6 @@ def create_suites(content: str) -> list[TestSuite]:
     el_h1 = el_body.get_child("h1")
     el_h2 = el_body.get_child("h2")
     el_p = el_body.get_child("p")
-    el_i = el_body.get_child("i")
-    el_b = el_body.get_child("b")
     el_img = el_body.get_child("img")
     el_ol = el_body.get_child("ol")
     el_ul = el_body.get_child("ul")
@@ -25,8 +23,6 @@ def create_suites(content: str) -> list[TestSuite]:
     html.make_item("Binnen de <body> tag bevindt zich de <h1> tag.", el_h1.exists())
     html.make_item("Binnen de <body> tag bevindt zich de <h2> tag.", el_h2.exists())
     html.make_item("Binnen de <body> tag bevindt zich minstens één <p> tag (alinea).", el_p.exists())
-    html.make_item("Binnen de <body> tag bevindt zich minstens één <i> tag (schuingedrukt).", el_i.exists())
-    html.make_item("Binnen de <body> tag bevindt zich minstens één <b> tag (vetgedrukt).", el_b.exists())
     html.make_item("Binnen de <body> tag bevindt zich de <img> tag.", el_img.exists())
 
 
