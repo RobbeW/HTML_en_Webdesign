@@ -25,10 +25,6 @@ def create_suites(content: str) -> list[TestSuite]:
     html.make_item("Binnen de <body> tag bevindt zich minstens één <p> tag (alinea).", el_p.exists())
     html.make_item("Binnen de <body> tag bevindt zich de <img> tag.", el_img.exists())
 
-
-    # Controle voor ol tag OF ul tag
-    html.make_item("Binnen de <body> tag bevindt zich de <ol> tag OF de <ul> tag.", el_ol.exists() or el_ul.exists())
-
     # Nieuwe controle voor iframe tag (video)
     html.make_item("Binnen de <body> tag bevindt zich de <iframe> tag.", el_iframe.exists())
 
