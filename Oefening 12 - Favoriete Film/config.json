@@ -1,0 +1,18 @@
+{
+  "description": {
+    "names": {
+      "nl": "Jouw Favoriete Film",
+      "en": "Your Favourite Film"
+    }
+  },
+  "type": "exercise",
+  "programming_language": "html",
+  "labels": ["html", "Robbe Wulgaert", "ai in de klas", "python in de klas", "Exy Sabbe"
+
+  ],
+  "evaluation": {
+    "handler": "html"
+  },
+  "internals": {
+  }
+}
